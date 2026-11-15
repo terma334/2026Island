@@ -2,7 +2,7 @@
 // REISEINHALTE
 // ========================================
 
-tagesTrenner("Tag 2", "Þórufoss & Thingvellir");
+tagesTrenner("Tag 2", "Þórufoss & Thingvellir", "", "pictures/map.png");
 galerieErstellen("galerie1", "pictures/Tag1", 10, [
     "Mosfellsbær",
     "Þórufoss",
@@ -16,7 +16,7 @@ galerieErstellen("galerie1", "pictures/Tag1", 10, [
     "Þórufoss"
 ]);
 
-tagesTrenner("Tag 3", "Akranes ->  Westfjorde");
+tagesTrenner("Tag 3", "Akranes ->  Westfjorde", "", "pictures/map.png");
 galerieErstellen("galerie2", "pictures/Tag2", 7, [
     "Grábrók",
     "Grábrók",
@@ -27,7 +27,7 @@ galerieErstellen("galerie2", "pictures/Tag2", 7, [
     "Kleifaheiði - Kleifakarl",
 ]);
 
-tagesTrenner("Tag 4", "Westfjorde");
+tagesTrenner("Tag 4", "Westfjorde", "", "pictures/map.png");
 galerieErstellen("galerie3", "pictures/Tag3", 11, [
     "Ósafjörður",
     "Garðar BA 64",
@@ -42,7 +42,7 @@ galerieErstellen("galerie3", "pictures/Tag3", 11, [
     "Saurbæjarkirkja",
 ]);
 
-tagesTrenner("Tag 5", "Westfjorde -> Snæfellsnes");
+tagesTrenner("Tag 5", "Westfjorde -> Snæfellsnes", "", "pictures/map.png");
 galerieErstellen("galerie4", "pictures/Tag4", 7, [
     "Arnarfjörður",
     "Arnarfjörður",
@@ -53,7 +53,7 @@ galerieErstellen("galerie4", "pictures/Tag4", 7, [
     "Selvallafoss",
 ]);
 
-tagesTrenner("Tag 6", "Snæfellsnes");
+tagesTrenner("Tag 6", "Snæfellsnes", "", "pictures/map.png");
 galerieErstellen("galerie5", "pictures/Tag5", 16, [
     "Ytri Tunga",
     "Ytri Tunga",
@@ -73,7 +73,7 @@ galerieErstellen("galerie5", "pictures/Tag5", 16, [
     "Kirkjufell",
 ]);
 
-tagesTrenner("Tag 7", "Snæfellsnes -> Reykjavík");
+tagesTrenner("Tag 7", "Snæfellsnes -> Reykjavík", "", "pictures/map.png");
 galerieErstellen("galerie6", "pictures/Tag6", 5, [
     "Ytri Tunga",
     "Ytri Tunga",
